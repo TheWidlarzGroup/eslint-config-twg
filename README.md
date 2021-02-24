@@ -1,6 +1,6 @@
 # ESLint (and Prettier) config
 
-[![npm version](https://badge.fury.io/js/eslint-config-twg.svg)](https://badge.fury.io/js/eslint-config-twg) ![NPM downloads](https://img.shields.io/npm/dm/eslint-config-twg) ![Code Style Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg) [![MIT License](https://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/TheWidlarzGroup/twgtest-ui/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/WidlarzGroup?label=Follow%20on%20Twitter)](https://twitter.com/WidlarzGroup)
+[![npm version](https://badge.fury.io/js/eslint-config-twg.svg)](https://badge.fury.io/js/eslint-config-twg) ![NPM downloads](https://img.shields.io/npm/dm/eslint-config-twg) ![Code Style Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg) [![MIT License](https://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/TheWidlarzGroup/eslint-config-twg/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/WidlarzGroup?label=Follow%20on%20Twitter)](https://twitter.com/WidlarzGroup)
 
 These are settings for ESLint.
 
