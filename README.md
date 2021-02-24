@@ -38,4 +38,4 @@ npx install-peerdeps --dev eslint-config-twg
 }
 ```
 
-4. Add prettier config [@twg/prettier-config](https://www.npmjs.com/package/@twg/prettier-config)
+4. Add prettier config [@twgdev/prettier-config](https://www.npmjs.com/package/@twgdev/prettier-config)

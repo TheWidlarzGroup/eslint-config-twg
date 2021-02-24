@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-twg",
-  "version": "1.0.0",
-  "description": "test-eslint-config",
+  "version": "1.0.1",
+  "description": "twgdev eslint config",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
