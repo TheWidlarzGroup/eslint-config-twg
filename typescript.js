@@ -20,6 +20,7 @@ module.exports = {
         checksVoidReturn: false,
       },
     ],
+    "@typescript-eslint/ban-ts-comment": 0,
     "@typescript-eslint/no-use-before-define": ["error"],
     "@typescript-eslint/semi": ["error", "never"],
     "@typescript-eslint/indent": 0,

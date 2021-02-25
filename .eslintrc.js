@@ -59,6 +59,7 @@ module.exports = {
         props: false,
       },
     ],
+    "global-require": 0,
     "no-console": 0,
     "no-param-reassign": 0,
     "import/prefer-default-export": 0,
