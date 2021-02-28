@@ -32,6 +32,8 @@ module.exports = {
     "@typescript-eslint/no-floating-promises": 0,
     "@typescript-eslint/no-unsafe-return": 0,
     "@typescript-eslint/explicit-module-boundary-types": 0,
+    "@typescript-eslint/no-this-alias": 0,
+    "@typescript-eslint/no-var-requires": 0,
   },
   parserOptions: {
     project: "./tsconfig.json",
